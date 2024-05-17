@@ -1,5 +1,5 @@
 # School Data Solutions
 
 <div style="text-align:center;background-color:white;">
-![School Data Solutions](https://demo.schooldata.solutions/images/server-logo/logo-400.png)
+<img src="https://demo.schooldata.solutions/images/server-logo/logo-400.png" />
 </div>
