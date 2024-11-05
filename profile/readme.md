@@ -1,5 +1,5 @@
 <div style="text-align:center;background-color:white;">
-  <img src="https://demo.schooldata.solutions/images/server-logo/logo-400.png" />
+  <img src="cropped.png" />
 </div>
 
 At School Data Solutions, we enhance curriculum development through data-driven insights, ensuring alignment with educational standards and optimizing learning outcomes for all students.
